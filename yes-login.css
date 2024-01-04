@@ -1,0 +1,12 @@
+body.login {
+    background-color: #FEE289; /* Add your background color here */
+}
+body.login #login h1 a {
+    background-image: url('logo.png'); /* Add your logo file in the child theme folder and link here */
+    width: auto;
+    height: 100px;
+    background-size: contain;
+}
+#return-to-pantheon {
+    display: none !important;
+}
